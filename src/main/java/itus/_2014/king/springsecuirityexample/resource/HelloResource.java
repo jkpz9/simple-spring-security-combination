@@ -1,4 +1,4 @@
-package resource;
+package itus._2014.king.springsecuirityexample.resource;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;
